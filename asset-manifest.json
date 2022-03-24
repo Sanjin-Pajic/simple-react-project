@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simple-react-project/static/css/main.202dbe8b.css",
+    "main.js": "/simple-react-project/static/js/main.9e1b51c8.js",
+    "static/media/react-logo.png": "/simple-react-project/static/media/react-logo.8a6fc0a24a800d1e0f4a.png",
+    "index.html": "/simple-react-project/index.html",
+    "main.202dbe8b.css.map": "/simple-react-project/static/css/main.202dbe8b.css.map",
+    "main.9e1b51c8.js.map": "/simple-react-project/static/js/main.9e1b51c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202dbe8b.css",
+    "static/js/main.9e1b51c8.js"
+  ]
+}
